@@ -11,3 +11,16 @@ C:\Users\lyejiela\OneDrive - Intel Corporation\Desktop\Tutorial\Product\Product\
 C:\Users\lyejiela\OneDrive - Intel Corporation\Desktop\Tutorial\Product\Product\obj\Debug\netcoreapp3.1\Product.dll
 C:\Users\lyejiela\OneDrive - Intel Corporation\Desktop\Tutorial\Product\Product\obj\Debug\netcoreapp3.1\Product.pdb
 C:\Users\lyejiela\OneDrive - Intel Corporation\Desktop\Tutorial\Product\Product\obj\Debug\netcoreapp3.1\Product.genruntimeconfig.cache
+C:\Users\peilingl\Downloads\Product\Product\Product\bin\Debug\netcoreapp3.1\Product.exe
+C:\Users\peilingl\Downloads\Product\Product\Product\bin\Debug\netcoreapp3.1\Product.deps.json
+C:\Users\peilingl\Downloads\Product\Product\Product\bin\Debug\netcoreapp3.1\Product.runtimeconfig.json
+C:\Users\peilingl\Downloads\Product\Product\Product\bin\Debug\netcoreapp3.1\Product.runtimeconfig.dev.json
+C:\Users\peilingl\Downloads\Product\Product\Product\bin\Debug\netcoreapp3.1\Product.dll
+C:\Users\peilingl\Downloads\Product\Product\Product\bin\Debug\netcoreapp3.1\Product.pdb
+C:\Users\peilingl\Downloads\Product\Product\Product\obj\Debug\netcoreapp3.1\Product.csprojAssemblyReference.cache
+C:\Users\peilingl\Downloads\Product\Product\Product\obj\Debug\netcoreapp3.1\Product.AssemblyInfoInputs.cache
+C:\Users\peilingl\Downloads\Product\Product\Product\obj\Debug\netcoreapp3.1\Product.AssemblyInfo.cs
+C:\Users\peilingl\Downloads\Product\Product\Product\obj\Debug\netcoreapp3.1\Product.csproj.CoreCompileInputs.cache
+C:\Users\peilingl\Downloads\Product\Product\Product\obj\Debug\netcoreapp3.1\Product.dll
+C:\Users\peilingl\Downloads\Product\Product\Product\obj\Debug\netcoreapp3.1\Product.pdb
+C:\Users\peilingl\Downloads\Product\Product\Product\obj\Debug\netcoreapp3.1\Product.genruntimeconfig.cache

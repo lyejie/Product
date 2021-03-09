@@ -19,7 +19,7 @@ namespace Product
         {
             try
             {
-                Console.WriteLine("The item you chose is Mobile Phone");
+                Console.WriteLine("Mobile Phone is chosen.");
                 Console.WriteLine("Quantity available: " + stock);
                 Console.WriteLine("\nPlease select quantity.");
                 quantity = Convert.ToInt32(Console.ReadLine());
